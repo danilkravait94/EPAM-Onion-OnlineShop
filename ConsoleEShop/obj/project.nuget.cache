@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ofi2Rj71MsHPrSDa0gRQy2Sxexb80D2oN0S3eT0az5AKZpo5wv66pkv04voWPqVFDS8As6KB5Bm3Man/nZkFmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\ConsoleEShop\\ConsoleEShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Олег\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\Олег\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Олег\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

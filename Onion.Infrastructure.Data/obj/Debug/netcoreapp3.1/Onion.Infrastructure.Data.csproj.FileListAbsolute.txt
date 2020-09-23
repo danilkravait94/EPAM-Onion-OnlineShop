@@ -1,0 +1,17 @@
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\bin\Debug\netcoreapp3.1\Onion.Infrastructure.Data.deps.json
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\bin\Debug\netcoreapp3.1\Onion.Infrastructure.Data.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\bin\Debug\netcoreapp3.1\Onion.Infrastructure.Data.pdb
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\bin\Debug\netcoreapp3.1\Onion.Domain.Core.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\bin\Debug\netcoreapp3.1\Onion.Domain.Interfaces.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\bin\Debug\netcoreapp3.1\Onion.Domain.Core.pdb
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\bin\Debug\netcoreapp3.1\Onion.Domain.Interfaces.pdb
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\obj\Debug\netcoreapp3.1\Onion.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\obj\Debug\netcoreapp3.1\Onion.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\obj\Debug\netcoreapp3.1\Onion.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\obj\Debug\netcoreapp3.1\Onion.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\obj\Debug\netcoreapp3.1\Onion.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\obj\Debug\netcoreapp3.1\Onion.Infrastructure.Data.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\obj\Debug\netcoreapp3.1\Onion.Infrastructure.Data.pdb
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\bin\Debug\netcoreapp3.1\Onion.Infrastructure.Data.xml
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\bin\Debug\netcoreapp3.1\Onion.Domain.Core.xml
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Infrastructure.Data\bin\Debug\netcoreapp3.1\Onion.Domain.Interfaces.xml

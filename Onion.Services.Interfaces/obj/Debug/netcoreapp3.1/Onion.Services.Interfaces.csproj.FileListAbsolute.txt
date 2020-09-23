@@ -1,0 +1,14 @@
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\bin\Debug\netcoreapp3.1\Onion.Services.Interfaces.deps.json
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\bin\Debug\netcoreapp3.1\Onion.Services.Interfaces.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\bin\Debug\netcoreapp3.1\Onion.Services.Interfaces.pdb
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\bin\Debug\netcoreapp3.1\Onion.Domain.Core.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\bin\Debug\netcoreapp3.1\Onion.Domain.Core.pdb
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\obj\Debug\netcoreapp3.1\Onion.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\obj\Debug\netcoreapp3.1\Onion.Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\obj\Debug\netcoreapp3.1\Onion.Services.Interfaces.AssemblyInfo.cs
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\obj\Debug\netcoreapp3.1\Onion.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\obj\Debug\netcoreapp3.1\Onion.Services.Interfaces.csproj.CopyComplete
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\obj\Debug\netcoreapp3.1\Onion.Services.Interfaces.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\obj\Debug\netcoreapp3.1\Onion.Services.Interfaces.pdb
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\bin\Debug\netcoreapp3.1\Onion.Services.Interfaces.xml
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Services.Interfaces\bin\Debug\netcoreapp3.1\Onion.Domain.Core.xml

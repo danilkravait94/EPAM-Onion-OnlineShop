@@ -1,0 +1,10 @@
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Domain.Core\bin\Debug\netcoreapp3.1\Onion.Domain.Core.deps.json
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Domain.Core\bin\Debug\netcoreapp3.1\Onion.Domain.Core.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Domain.Core\bin\Debug\netcoreapp3.1\Onion.Domain.Core.pdb
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Domain.Core\obj\Debug\netcoreapp3.1\Onion.Domain.Core.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Domain.Core\obj\Debug\netcoreapp3.1\Onion.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Domain.Core\obj\Debug\netcoreapp3.1\Onion.Domain.Core.AssemblyInfo.cs
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Domain.Core\obj\Debug\netcoreapp3.1\Onion.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Domain.Core\obj\Debug\netcoreapp3.1\Onion.Domain.Core.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Domain.Core\obj\Debug\netcoreapp3.1\Onion.Domain.Core.pdb
+C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Domain.Core\bin\Debug\netcoreapp3.1\Onion.Domain.Core.xml

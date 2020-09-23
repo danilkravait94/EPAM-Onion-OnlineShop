@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Onion.Domain.Interfaces/1.0.0": {
+        "dependencies": {
+          "Onion.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "Onion.Domain.Interfaces.dll": {}
+        }
+      },
+      "Onion.Domain.Core/1.0.0": {
+        "runtime": {
+          "Onion.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Onion.Domain.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Onion.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

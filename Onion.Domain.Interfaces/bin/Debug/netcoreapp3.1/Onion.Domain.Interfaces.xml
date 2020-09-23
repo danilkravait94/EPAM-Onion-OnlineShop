@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Onion.Domain.Interfaces</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:Onion.Domain.Interfaces.IRepository`1" -->
+        <member name="M:Onion.Domain.Interfaces.IRepository`1.GetAll">
+            <summary>
+            Get all
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Onion.Domain.Interfaces.IRepository`1.Get(System.Int32)">
+            <summary>
+            Get by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Onion.Domain.Interfaces.IRepository`1.Find(System.Func{`0,System.Boolean})">
+            <summary>
+            Find by predicate
+            </summary>
+            <param name="predicate"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Onion.Domain.Interfaces.IRepository`1.Create(`0)">
+            <summary>
+            Create an item
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Onion.Domain.Interfaces.IRepository`1.Update(`0)">
+            <summary>
+            update an item
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Onion.Domain.Interfaces.IRepository`1.Delete(`0)">
+            <summary>
+            Delete an item
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Onion.Domain.Interfaces.IRepository`1.Delete(System.Int32)">
+            <summary>
+            Delete by id
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

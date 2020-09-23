@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\ConsoleEShop\\ConsoleEShop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\ConsoleEShop\\ConsoleEShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\ConsoleEShop\\ConsoleEShop.csproj",
+        "projectName": "ConsoleEShop",
+        "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\ConsoleEShop\\ConsoleEShop.csproj",
+        "packagesPath": "C:\\Users\\Олег\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\ConsoleEShop\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Олег\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Business\\Onion.Infrastructure.Business.csproj": {
+                "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Business\\Onion.Infrastructure.Business.csproj"
+              },
+              "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Data\\Onion.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Data\\Onion.Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Core\\Onion.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Core\\Onion.Domain.Core.csproj",
+        "projectName": "Onion.Domain.Core",
+        "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Core\\Onion.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Олег\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Олег\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Interfaces\\Onion.Domain.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Interfaces\\Onion.Domain.Interfaces.csproj",
+        "projectName": "Onion.Domain.Interfaces",
+        "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Interfaces\\Onion.Domain.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Олег\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Олег\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Core\\Onion.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Core\\Onion.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Business\\Onion.Infrastructure.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Business\\Onion.Infrastructure.Business.csproj",
+        "projectName": "Onion.Infrastructure.Business",
+        "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Business\\Onion.Infrastructure.Business.csproj",
+        "packagesPath": "C:\\Users\\Олег\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Олег\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Interfaces\\Onion.Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Interfaces\\Onion.Domain.Interfaces.csproj"
+              },
+              "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Services.Interfaces\\Onion.Services.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Services.Interfaces\\Onion.Services.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Data\\Onion.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Data\\Onion.Infrastructure.Data.csproj",
+        "projectName": "Onion.Infrastructure.Data",
+        "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Data\\Onion.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\Олег\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Олег\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Core\\Onion.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Core\\Onion.Domain.Core.csproj"
+              },
+              "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Interfaces\\Onion.Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Interfaces\\Onion.Domain.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Services.Interfaces\\Onion.Services.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Services.Interfaces\\Onion.Services.Interfaces.csproj",
+        "projectName": "Onion.Services.Interfaces",
+        "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Services.Interfaces\\Onion.Services.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Олег\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Services.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Олег\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Core\\Onion.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Олег\\source\\repos\\EpamProject\\C#Essential\\12MultiLayeredOnion(30.07-12.08)\\ConsoleEShopOnion\\Onion.Domain.Core\\Onion.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

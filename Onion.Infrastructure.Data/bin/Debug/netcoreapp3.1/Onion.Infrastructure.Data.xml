@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Onion.Infrastructure.Data</name>
+    </assembly>
+    <members>
+        <member name="T:Onion.Infrastructure.Data.DBWork">
+            <summary>
+            Class for work with DataBase
+            </summary>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.DBWork.#ctor(System.Collections.Generic.List{Onion.Domain.Core.Product},System.Collections.Generic.List{Onion.Domain.Core.Roles.User})">
+            <summary>
+            Constructor
+            </summary>
+            <param name="products"></param>
+            <param name="users"></param>
+        </member>
+        <member name="P:Onion.Infrastructure.Data.DBWork.Products">
+            <summary>
+            Get Products
+            </summary>
+        </member>
+        <member name="P:Onion.Infrastructure.Data.DBWork.Users">
+            <summary>
+            Get Users
+            </summary>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.DBWork.Save">
+            <summary>
+            Save DataBase
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:Onion.Infrastructure.Data.ProductRepository" -->
+        <member name="M:Onion.Infrastructure.Data.ProductRepository.#ctor(Onion.Infrastructure.Data.Context)">
+            <summary>
+            Conection with DB
+            </summary>
+            <param name="db"></param>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.ProductRepository.Find(System.Func{Onion.Domain.Core.Product,System.Boolean})">
+            <summary>
+            Retrives ienumerable of product
+            </summary>
+            <param name="predicate"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.ProductRepository.Get(System.Int32)">
+            <summary>
+            get product by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.ProductRepository.GetAll">
+            <summary>
+            get all products
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.ProductRepository.Create(Onion.Domain.Core.Product)">
+            <summary>
+            Create a product
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.ProductRepository.Delete(Onion.Domain.Core.Product)">
+            <summary>
+            Delete a product
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.ProductRepository.Update(Onion.Domain.Core.Product)">
+            <summary>
+            Update a product
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.ProductRepository.Delete(System.Int32)">
+            <summary>
+            Delete a product by id
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.UserRepository.Find(System.Func{Onion.Domain.Core.Roles.User,System.Boolean})">
+            <summary>
+            Retrives ienumerable of user
+            </summary>
+            <param name="predicate"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.UserRepository.Get(System.Int32)">
+            <summary>
+            Get user by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.UserRepository.GetAll">
+            <summary>
+            Get all users
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.UserRepository.Create(Onion.Domain.Core.Roles.User)">
+            <summary>
+            Create an user
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.UserRepository.Delete(Onion.Domain.Core.Roles.User)">
+            <summary>
+            Delete an user
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.UserRepository.Update(Onion.Domain.Core.Roles.User)">
+            <summary>
+            Update the user by id
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Onion.Infrastructure.Data.UserRepository.Delete(System.Int32)">
+            <summary>
+            Delete an user by id
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

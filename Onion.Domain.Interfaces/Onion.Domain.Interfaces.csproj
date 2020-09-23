@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\Олег\source\repos\EpamProject\C#Essential\12MultiLayeredOnion(30.07-12.08)\ConsoleEShopOnion\Onion.Domain.Interfaces\Onion.Domain.Interfaces.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Onion.Domain.Core\Onion.Domain.Core.csproj" />
+  </ItemGroup>
+
+</Project>

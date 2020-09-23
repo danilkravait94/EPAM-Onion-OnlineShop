@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Onion.Infrastructure.Business\Onion.Infrastructure.Business.csproj" />
+    <ProjectReference Include="..\Onion.Infrastructure.Data\Onion.Infrastructure.Data.csproj" />
+  </ItemGroup>
+
+</Project>
